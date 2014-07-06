@@ -1,0 +1,23 @@
+#include <iostream>
+#include <string>
+#include <cmath>
+#include <stdlib.h>
+
+using namespace std;
+
+int main(void)
+{
+	double n = 0;
+	cin >> n;
+	while (n >= 1 || n < 1000000000)
+	{
+		int integer_root = (int)sqrt(n);
+		if (sqrt(n)-integer_root)
+			cout << "XXX";
+		else
+			cout << sqrt(n);
+
+		cout << endl;
+		cin >> n;
+	}
+}
