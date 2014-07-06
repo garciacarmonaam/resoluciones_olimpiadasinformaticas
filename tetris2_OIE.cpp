@@ -1,3 +1,5 @@
+// Problema de la Olimpiada Informática Española (OIE)
+
 #include <iostream>
 #include <string>
 #include <stdlib.h>
