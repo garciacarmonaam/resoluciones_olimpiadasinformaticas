@@ -1,4 +1,4 @@
-// Problema de la I Olimpiada Informática de Extremadura (OIEX 2011)
+// Problema de la I Olimpiada Informática de Extremadura (OIEX 11-3-2011)
 
 #include <iostream>
 #include <stdio.h>
